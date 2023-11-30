@@ -1,0 +1,13 @@
+1. Write a menu driven C program for binary tree using linked representation to
+(a) Create (b) Preorder traversal (c) Inorder traversal (d) Postorder traversal
+
+2. Write a menu driven C program for binary tree using array to
+(a) Create (b) Preorder traversal (c) Inorder traversal (d) Postorder traversal
+
+3. Implement a threaded binary tree (inorder)
+
+4. Write a menu driven C program for binary search tree to
+(a) Create (b) search an element (c) insert an element (d) delete an element
+
+5. Write a menu driven C program to implement AVL tree through functions
+(a) Create (b) search an element (c) insert an element (d) delete an element
